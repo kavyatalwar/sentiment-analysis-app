@@ -1,4 +1,3 @@
-```markdown
 # 🔮 AI-Driven Sentiment Analysis Application
 
 A live, production-ready web application that leverages state-of-the-art Natural Language Processing (NLP) to evaluate textual sentiment in real time. Built with a focus on high accuracy and low latency, this application serves as the foundation for an advanced business intelligence pipeline.
@@ -45,19 +44,14 @@ To run this project locally, ensure you have Python 3.12+ installed, then follow
 ```bash
 git clone [https://github.com/kavyatalwar/sentiment-analysis-app.git](https://github.com/kavyatalwar/sentiment-analysis-app.git)
 cd sentiment-analysis-app
-
 ```
 
 2. Install dependencies:
-
-```bash
+```Bash
 pip install -r requirements.txt
-
 ```
 
 3. Launch the Streamlit application:
-
-```bash
+```Bash
 streamlit run app.py
-
 ```
